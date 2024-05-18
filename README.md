@@ -4,7 +4,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0xHarrix/0xHarrix/output/snake.svg" alt="Snake animation" />
 
 ###
 
